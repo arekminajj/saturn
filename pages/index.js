@@ -5,7 +5,7 @@ import Image from 'react-bootstrap/Image';
 
 export default function Home() {
   return (
-    <Container>
+    <Container className="mx-auto d-block text-center">
       <h1>
         🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐🪐
       </h1>
